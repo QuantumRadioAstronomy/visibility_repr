@@ -1,5 +1,4 @@
-# BSc_thesis:
-Efficiently representing radio astronomy data in qbits
+# BSc_thesis: Efficiently representing radio astronomy data in qbits
 
 Knowledge collection of the quantum computing exploration
 
