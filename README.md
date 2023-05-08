@@ -1,4 +1,4 @@
-# BSc_thesis: Efficiently representing radio astronomy data into qubits
+# BSc_thesis: Efficiently representing radio astronomy data in qubits
 
 Is Quantum Computing viable for radio astronomy?
 
