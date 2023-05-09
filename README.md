@@ -3,8 +3,8 @@
 Is Quantum Computing viable for radio astronomy?
 
 ## Research questions
-- Considering that naive representation of radio astronomy data is wasteful in qubits, what is a more efficient  way to represent such data in a quantum computer?
-- How to efficiently turn radio telscope's visibility data into astronomical images?
+- Considering that naive representation of radio astronomy data is wasteful in qubits, what is a more efficient way to represent such data in a quantum computer?
+- How to effectively turn radio visibility data into an astronomical image?
 
 ## Learning materials
 
