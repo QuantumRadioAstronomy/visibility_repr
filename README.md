@@ -26,16 +26,3 @@ Is Quantum Computing viable for radio astronomy?
 ### Tools
 - [QisKit](https://qiskit.org/)
 - [Pennylane](https://pennylane.ai/)
-
-### Tips
-In order to use bra-ket notation in Jupyter notebooks, include the snippet below in a markdown cell:
-
-```markdown
-$$
-\renewcommand{\braket}[2]{\left\langle{#1}\middle|{#2}\right\rangle}
-\renewcommand{\ket}[1]{\left|{#1}\right\rangle}
-\renewcommand{\bra}[1]{\left\langle{#1}\right|}
-$$
-```
-
-it will render to whitespace, but it will allow to use the latex commands `\bra{q}`, `\ket{q}` and `\braket{q, p}`.
