@@ -21,7 +21,7 @@ Is Quantum Computing viable for radio astronomy?
 
 ### Publications
 - Commodity compute and data-transport system design in modern large-scale distributed radio telescopes. [Chris Broekema's PhD thesis](https://www.astron.nl/~broekema/Thesis/PhD-Thesis.pdf)
-- Efficiently representing radio astronomy data in qubits. [Roman Ilic's BSc thesis](https://fr.overleaf.com/read/dtxmfchtqbmp)
+- Efficiently representing radio astronomy uv-data in qubits. [Roman Ilic's BSc thesis](https://fr.overleaf.com/read/dtxmfchtqbmp)
 
 ### Tools
 - [QisKit](https://qiskit.org/)
